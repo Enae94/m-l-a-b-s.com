@@ -2,21 +2,21 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
+$url = "http://s-a-l-g-a-d-i-n-h-o.com/";
 $title = "mLabs";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "coxinha",
+                  "image" => "http://gph.is/1HuCm12"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "coxinha",
+                  "image" => "http://gph.is/1sCGjky"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "coxinha",
+                  "image" => "http://gph.is/1LDQcS7"
                   ),
         );
 
