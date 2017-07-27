@@ -1,9 +1,9 @@
 <?php
 $url = 'https://graph.facebook.com/v2.9';
 $fields = array(
-            'id'=>urlencode('http://m-l-a-b-s.com'),
+            'id'=>urlencode('http://s-a-l-g-a-d-i-n-h-o.com'),
             'scrape'=>urlencode(true),
-            'access_token'=>"<coloque_seu_token_do_aplicativo_facebook_aqui>"
+            'access_token'=>"<159839864574279|59XaCzoFORGsSrKauamdCUV3xVI>"
         );
 
 $fields_string = '';
